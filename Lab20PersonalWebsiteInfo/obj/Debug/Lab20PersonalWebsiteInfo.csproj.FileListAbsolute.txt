@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\bin\Debug\Lab20PersonalWebsiteInfo.exe.config
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\bin\Debug\Lab20PersonalWebsiteInfo.exe
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\bin\Debug\Lab20PersonalWebsiteInfo.pdb
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\obj\Debug\Lab20PersonalWebsiteInfo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\obj\Debug\Lab20PersonalWebsiteInfo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\obj\Debug\Lab20PersonalWebsiteInfo.exe
+C:\Users\user\source\repos\Lab20PersonalWebsiteInfo\Lab20PersonalWebsiteInfo\obj\Debug\Lab20PersonalWebsiteInfo.pdb
